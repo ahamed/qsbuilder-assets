@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+!.gitignore
+!composer.json
+!package.json
+!gulpfile.js
+yarn.lock
+node_modules
