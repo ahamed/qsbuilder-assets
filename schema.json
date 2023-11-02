@@ -2,6 +2,7 @@
   "name": "Schema",
   "version": "1.0.0",
   "core": {
+    "name": "Joomla Core",
     "includes": [
       "#__assets",
       "#__extensions",
@@ -118,6 +119,7 @@
     "data_excludes": []
   },
   "easystore": {
+    "name": "EasyStore",
     "includes": [
       "#__easystore_categories",
       "#__easystore_tags",
@@ -157,6 +159,7 @@
     ]
   },
   "page_builder": {
+    "name": "Page Builder",
     "includes": [
       "#__sppagebuilder",
       "#__sppagebuilder_integrations",
@@ -174,14 +177,16 @@
     "data_excludes": []
   },
   "easy_gallery": {
+    "name": "Easy Image Gallery",
     "includes": ["#__speasyimagegallery_albums", "#__speasyimagegallery_images"],
     "excludes": [],
     "data_excludes": []
   },
   "portfolio": {
+    "name": "Simple Portfolio",
     "includes": ["#__spsimpleportfolio_items", "#__spsimpleportfolio_tags"],
     "excludes": [],
     "data_excludes": []
   },
-  "polls": { "includes": ["#__sppolls_polls"], "excludes": [], "data_excludes": [] }
+  "polls": { "name": "Polls", "includes": ["#__sppolls_polls"], "excludes": [], "data_excludes": [] }
 }
