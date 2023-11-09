@@ -147,7 +147,6 @@
     "excludes": [],
     "data_excludes": [
       "#__easystore_wishlist",
-      "#__easystore_settings",
       "#__easystore_orders",
       "#__easystore_order_product_map",
       "#__easystore_order_activities",
