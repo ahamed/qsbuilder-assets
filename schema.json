@@ -116,7 +116,7 @@
       "#__users",
       "#__schemaorg"
     ],
-    "data_excludes": ["#__schemas"]
+    "data_excludes": []
   },
   "easystore": {
     "name": "EasyStore",
