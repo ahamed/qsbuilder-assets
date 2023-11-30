@@ -187,5 +187,18 @@
     "excludes": [],
     "data_excludes": []
   },
-  "polls": { "name": "Polls", "includes": ["#__sppolls_polls"], "excludes": [], "data_excludes": [] }
+  "polls": { "name": "Polls", "includes": ["#__sppolls_polls"], "excludes": [], "data_excludes": [] },
+  "sp_property": {
+    "name": "SP Property",
+    "includes": [
+      "#__spproperty_agents",
+      "#__spproperty_visitrequests",
+      "#__spproperty_categories",
+      "#__spproperty_properties",
+      "#__spproperty_propertyfeatures",
+      "#__spproperty_favourites"
+    ],
+    "excludes": [],
+    "data_excludes": []
+  }
 }
