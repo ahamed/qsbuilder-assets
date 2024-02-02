@@ -206,5 +206,24 @@
     "includes": ["#__speventum_speakers", "#__speventum_schedules", "#__speventum_sessions"],
     "excludes": [],
     "data_excludes": []
+  },
+  "sp_booking": {
+    "name": "SP Booking",
+    "includes": [
+      "#__spbooking_categories",
+      "#__spbooking_accomodations",
+      "#__spbooking_rooms",
+      "#__spbooking_coupons",
+      "#__spbooking_additionalservices",
+      "#__spbooking_packages",
+      "#__spbooking_bookings",
+      "#__spbooking_reviews",
+      "#__spbooking_tags",
+      "#__spbooking_transports",
+      "#__spbooking_places",
+      "#__spbooking_packagetypes"
+    ],
+    "excludes": [],
+    "data_excludes": []
   }
 }
