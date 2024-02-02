@@ -225,5 +225,27 @@
     ],
     "excludes": [],
     "data_excludes": []
+  },
+  "sp_lms": {
+    "name": "SP LMS",
+    "includes": [
+      "#__splms_certificates", 
+      "#__splms_courses", 
+      "#__splms_coursescategories",
+      "#__splms_eventcategories",
+      "#__splms_events",
+      "#__splms_lessiontopics",
+      "#__splms_lessons",
+      "#__splms_orders",
+      "#__splms_quizquestions",
+      "#__splms_quizresults",
+      "#__splms_speakers",
+      "#__splms_teachers",
+      "#__splms_useritems",
+      "#__splms_reviews",
+      "#__splms_followers"
+    ],
+    "excludes": [],
+    "data_excludes": []
   }
 }
