@@ -200,5 +200,11 @@
     ],
     "excludes": [],
     "data_excludes": []
+  },
+  "sp_eventum": {
+    "name": "SP Eventum",
+    "includes": ["#__speventum_speakers", "#__speventum_schedules", "#__speventum_sessions"],
+    "excludes": [],
+    "data_excludes": []
   }
 }
