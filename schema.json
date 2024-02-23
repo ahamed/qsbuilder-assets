@@ -206,5 +206,46 @@
     "includes": ["#__speventum_speakers", "#__speventum_schedules", "#__speventum_sessions"],
     "excludes": [],
     "data_excludes": []
+  },
+  "sp_booking": {
+    "name": "SP Booking",
+    "includes": [
+      "#__spbooking_categories",
+      "#__spbooking_accomodations",
+      "#__spbooking_rooms",
+      "#__spbooking_coupons",
+      "#__spbooking_additionalservices",
+      "#__spbooking_packages",
+      "#__spbooking_bookings",
+      "#__spbooking_reviews",
+      "#__spbooking_tags",
+      "#__spbooking_transports",
+      "#__spbooking_places",
+      "#__spbooking_packagetypes"
+    ],
+    "excludes": [],
+    "data_excludes": []
+  },
+  "sp_lms": {
+    "name": "SP LMS",
+    "includes": [
+      "#__splms_certificates", 
+      "#__splms_courses", 
+      "#__splms_coursescategories",
+      "#__splms_eventcategories",
+      "#__splms_events",
+      "#__splms_lessiontopics",
+      "#__splms_lessons",
+      "#__splms_orders",
+      "#__splms_quizquestions",
+      "#__splms_quizresults",
+      "#__splms_speakers",
+      "#__splms_teachers",
+      "#__splms_useritems",
+      "#__splms_reviews",
+      "#__splms_followers"
+    ],
+    "excludes": [],
+    "data_excludes": []
   }
 }
