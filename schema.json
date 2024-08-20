@@ -265,5 +265,18 @@
         "includes": ["#__authorarchive_bookmarks"],
         "excludes": [],
         "data_excludes": []
+    },
+    "kindergarten": {
+        "name": "SP Kindergarten",
+        "includes": [
+            "#__spkgarten_classes",
+            "#__spkgarten_courses",
+            "#__spkgarten_events",
+            "#__spkgarten_speakers",
+            "#__spkgarten_teachers",
+            "#__spmedia"
+        ],
+        "excludes": [],
+        "data_excludes": []
     }
 }
