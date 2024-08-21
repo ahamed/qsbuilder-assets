@@ -273,8 +273,7 @@
             "#__spkgarten_courses",
             "#__spkgarten_events",
             "#__spkgarten_speakers",
-            "#__spkgarten_teachers",
-            "#__spmedia"
+            "#__spkgarten_teachers"
         ],
         "excludes": [],
         "data_excludes": []
