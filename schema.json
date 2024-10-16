@@ -170,7 +170,8 @@
             "#__sppagebuilder_assets",
             "#__sppagebuilder_colors",
             "#__sppagebuilder_fonts",
-            "#__sppagebuilder_presets"
+            "#__sppagebuilder_presets",
+            "#__sppagebuilder_image_shapes"
         ],
         "excludes": [],
         "data_excludes": []
