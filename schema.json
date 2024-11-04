@@ -79,7 +79,8 @@
             "#__scheduler_tasks",
             "#__schemaorg",
             "#__guidedtours",
-            "#__guidedtour_steps"
+            "#__guidedtour_steps",
+            "#__tuf_metadata"
         ],
         "excludes": [
             "#__action_log_config",
