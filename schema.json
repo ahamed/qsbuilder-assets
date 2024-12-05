@@ -129,7 +129,6 @@
 			"#__easystore_media",
 			"#__easystore_temp_media",
 			"#__easystore_coupons",
-			"#__easystore_collections",
 			"#__easystore_wishlist",
 			"#__easystore_reviews",
 			"#__easystore_product_options",
@@ -144,7 +143,10 @@
 			"#__easystore_cart",
 			"#__easystore_cart_items",
 			"#__easystore_settings",
-			"#__easystore_guests"
+			"#__easystore_guests",
+			"#__easystore_user_coupon_usage",
+			"#__easystore_collections",
+			"#__easystore_collection_product_map"
 		],
 		"excludes": [],
 		"data_excludes": [
