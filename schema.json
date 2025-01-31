@@ -175,7 +175,11 @@
 			"#__sppagebuilder_colors",
 			"#__sppagebuilder_fonts",
 			"#__sppagebuilder_presets",
-			"#__sppagebuilder_image_shapes"
+			"#__sppagebuilder_image_shapes",
+			"#__sppagebuilder_collections",
+			"#__sppagebuilder_collection_fields",
+			"#__sppagebuilder_collection_items",
+			"#__sppagebuilder_collection_item_values"
 		],
 		"excludes": [],
 		"data_excludes": []
