@@ -285,5 +285,22 @@
 		"includes": ["#__spstrings_albums", "#__spstrings_artists", "#__spstrings_events"],
 		"excludes": [],
 		"data_excludes": []
+	},
+	"spsoccer": {
+		"name": "SP Soccer",
+		"includes": [
+			"#__spsoccer_gameteams",
+			"#__spsoccer_groups",
+			"#__spsoccer_matches",
+			"#__spsoccer_players",
+			"#__spsoccer_polloptions",
+			"#__spsoccer_polls",
+			"#__spsoccer_possitions",
+			"#__spsoccer_sessions",
+			"#__spsoccer_tournaments",
+			"#__spsoccer_vanues"
+		],
+		"excludes": [],
+		"data_excludes": []
 	}
 }
