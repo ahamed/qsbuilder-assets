@@ -309,8 +309,7 @@
 			"#__spmoviedb_movies",
 			"#__spmoviedb_celebrities",
 			"#__spmoviedb_genres",
-			"#__spmoviedb_reviews",
-			"#__spmedia"
+			"#__spmoviedb_reviews"
 		],
 		"excludes": [],
 		"data_excludes": []
