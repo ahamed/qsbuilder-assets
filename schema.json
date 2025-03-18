@@ -302,5 +302,17 @@
 		],
 		"excludes": [],
 		"data_excludes": []
+	},
+	"spmoviedb": {
+		"name": "SP Movie Database",
+		"includes": [
+			"#__spmoviedb_movies",
+			"#__spmoviedb_celebrities",
+			"#__spmoviedb_genres",
+			"#__spmoviedb_reviews",
+			"#__spmedia"
+		],
+		"excludes": [],
+		"data_excludes": []
 	}
 }
