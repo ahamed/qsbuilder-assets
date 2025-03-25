@@ -129,6 +129,8 @@
 			"#__easystore_media",
 			"#__easystore_temp_media",
 			"#__easystore_coupons",
+			"#__easystore_coupon_category_map",
+			"#__easystore_coupon_product_map",
 			"#__easystore_wishlist",
 			"#__easystore_reviews",
 			"#__easystore_product_options",
