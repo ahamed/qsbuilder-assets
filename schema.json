@@ -150,6 +150,8 @@
 		],
 		"excludes": [],
 		"data_excludes": [
+			"#__easystore_coupon_category_map",
+			"#__easystore_coupon_product_map",
 			"#__easystore_wishlist",
 			"#__easystore_orders",
 			"#__easystore_order_product_map",
