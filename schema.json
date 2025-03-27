@@ -317,5 +317,24 @@
 		],
 		"excludes": [],
 		"data_excludes": []
+	},
+	"spmedical": {
+		"name": "SP Medical",
+		"includes": [
+			"#__spmedical_departments",
+			"#__spmedical_specialists",
+			"#__spmedical_appointments"
+		],
+		"excludes": [],
+		"data_excludes": []
+	},
+	"spcampaign": {
+		"name": "SP Campaign",
+		"includes": [
+			"#__spcampaign_guests",
+			"#__spcampaign_campaigns"
+		],
+		"excludes": [],
+		"data_excludes": []
 	}
 }
