@@ -129,6 +129,8 @@
 			"#__easystore_media",
 			"#__easystore_temp_media",
 			"#__easystore_coupons",
+			"#__easystore_coupon_category_map",
+			"#__easystore_coupon_product_map",
 			"#__easystore_wishlist",
 			"#__easystore_reviews",
 			"#__easystore_product_options",
@@ -150,6 +152,8 @@
 		],
 		"excludes": [],
 		"data_excludes": [
+			"#__easystore_coupon_category_map",
+			"#__easystore_coupon_product_map",
 			"#__easystore_wishlist",
 			"#__easystore_orders",
 			"#__easystore_order_product_map",
@@ -299,6 +303,36 @@
 			"#__spsoccer_sessions",
 			"#__spsoccer_tournaments",
 			"#__spsoccer_vanues"
+		],
+		"excludes": [],
+		"data_excludes": []
+	},
+	"spmoviedb": {
+		"name": "SP Movie Database",
+		"includes": [
+			"#__spmoviedb_movies",
+			"#__spmoviedb_celebrities",
+			"#__spmoviedb_genres",
+			"#__spmoviedb_reviews"
+		],
+		"excludes": [],
+		"data_excludes": []
+	},
+	"spmedical": {
+		"name": "SP Medical",
+		"includes": [
+			"#__spmedical_departments",
+			"#__spmedical_specialists",
+			"#__spmedical_appointments"
+		],
+		"excludes": [],
+		"data_excludes": []
+	},
+	"spcampaign": {
+		"name": "SP Campaign",
+		"includes": [
+			"#__spcampaign_guests",
+			"#__spcampaign_campaigns"
 		],
 		"excludes": [],
 		"data_excludes": []
