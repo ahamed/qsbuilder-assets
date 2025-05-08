@@ -148,7 +148,10 @@
 			"#__easystore_guests",
 			"#__easystore_user_coupon_usage",
 			"#__easystore_collections",
-			"#__easystore_collection_product_map"
+			"#__easystore_collection_product_map",
+			"#__easystore_brands",
+			"#__easystore_product_upsells",
+			"#__easystore_product_crossells"
 		],
 		"excludes": [],
 		"data_excludes": [
