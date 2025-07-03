@@ -186,7 +186,9 @@
 			"#__sppagebuilder_collections",
 			"#__sppagebuilder_collection_fields",
 			"#__sppagebuilder_collection_items",
-			"#__sppagebuilder_collection_item_values"
+			"#__sppagebuilder_collection_item_values",
+			"#__sppagebuilder_typography",
+			"#__sppagebuilder_collection_imports"
 		],
 		"excludes": [],
 		"data_excludes": []
