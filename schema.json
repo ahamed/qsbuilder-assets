@@ -118,7 +118,7 @@
 			"#__schemaorg"
 		],
 		"data_excludes": [
-			"#__sppagebuilder_versions"
+			
 		]
 	},
 	"easystore": {
@@ -193,7 +193,9 @@
 			"#__sppagebuilder_collection_imports"
 		],
 		"excludes": [],
-		"data_excludes": []
+		"data_excludes": [
+			"#__sppagebuilder_versions"
+		]
 	},
 	"easy_gallery": {
 		"name": "Easy Image Gallery",
