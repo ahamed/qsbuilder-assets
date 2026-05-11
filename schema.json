@@ -117,7 +117,9 @@
 			"#__users",
 			"#__schemaorg"
 		],
-		"data_excludes": []
+		"data_excludes": [
+			"#__sppagebuilder_versions"
+		]
 	},
 	"easystore": {
 		"name": "EasyStore",
